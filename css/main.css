@@ -378,4 +378,7 @@ footer {
     visibility: visible;
   }
 }
+ul li{
+  list-style-type: square;
+}
 
