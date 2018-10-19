@@ -378,7 +378,7 @@ footer {
     visibility: visible;
   }
 }
-ul li{
+.skills li{
   list-style-type: square;
 }
 
