@@ -14,7 +14,10 @@
 #mainNav .navbar-toggler:focus {
   outline: none;
 }
-
+h3{
+  text-align: left;
+  color: #69773d;
+}
 #mainNav .navbar-brand {
   color: #161616;
   font-weight: 700;
@@ -34,7 +37,11 @@
   outline: none;
   background-color: transparent;
 }
-
+ul li{
+  list-style: none;
+  text-align: left;
+  color: #fff;
+}
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 0;
